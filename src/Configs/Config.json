@@ -1,4 +1,4 @@
 {
-    "SERVER_API": "http://localhost:3004",
+    "SERVER_API": "https://api-blog-two.vercel.app",
     "SITENAME": "Blog GenZ"
 }
