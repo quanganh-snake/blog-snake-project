@@ -1,0 +1,13 @@
+.navbar {
+    a {
+        &.active {
+            font-weight: 800;
+            color      : #ce5900 !important;
+        }
+
+        &:hover {
+            @extend .active;
+        }
+
+    }
+}
